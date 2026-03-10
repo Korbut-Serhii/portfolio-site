@@ -36,7 +36,8 @@ def category_page(cat_id):
                 {"name": "Site Showcase", "link": "https://github.com/Korbut-Serhii/Site-Showcase"},
                 {"name": "File-Converter", "link": "https://github.com/Korbut-Serhii/File-Converter"},
                 {"name": "Infinity-Puzzle", "link": "https://github.com/Korbut-Serhii/Infinity-Puzzle"},
-                {"name": "SoftPad", "link": "https://github.com/Korbut-Serhii/SoftPad"}
+                {"name": "SoftPad", "link": "https://github.com/Korbut-Serhii/SoftPad"},
+                {"name": "Chroma App", "link": "https://github.com/Korbut-Serhii/Chroma"}
             ]
         },
         "other": {
