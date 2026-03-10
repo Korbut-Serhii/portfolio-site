@@ -46,7 +46,8 @@ def category_page(cat_id):
             "text": "Other, uncategorized projects that I have worked on. These projects may not fit into the other categories, but they are still important to me and show my versatility as a developer.",
             "projects": [
                 {"name": "Arduino Projects", "link": "https://github.com/Korbut-Serhii/Arduino-Projects"},
-                {"name": "Rust-Server", "link": "https://github.com/Korbut-Serhii/rust-server"}
+                {"name": "Rust-Server", "link": "https://github.com/Korbut-Serhii/rust-server"},
+                {"name": "Rust-P2P_Chat", "link": "https://github.com/Korbut-Serhii/p2p_Chat"}
             ]
         }
         ,
