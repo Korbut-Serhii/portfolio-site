@@ -24,20 +24,21 @@ def category_page(cat_id):
             "text": "I create small scripts and experiments to learn new libraries and concepts. These projects are not polished, but show my learning process.",
             "projects": [
                 {"name": "Uncategorized Projects", "link": "https://github.com/Korbut-Serhii/Python-Projects"},
-                {"name": "Tamagotchi - Small Idle Game", "link": "https://github.com/Korbut-Serhii/Tamagotchi"},
+                {"name": "Tamagotchi - Small Game", "link": "https://github.com/Korbut-Serhii/Tamagotchi"},
                 {"name": "ClipboardManager", "link": "https://github.com/Korbut-Serhii/ClipboardManager"},
             ]
         },
         "web": {
             "title": "Full Stack Development",
-            "text": "Creating different sites, apps, games, interfaces and server logic (Node.js).",
+            "text": "Creating different sites, apps on electron, games, interfaces and server logic (Node.js).",
             "projects": [
                 {"name": "Pi-Monitor", "link": "https://github.com/Korbut-Serhii/pi-monitor"},
                 {"name": "Site Showcase", "link": "https://github.com/Korbut-Serhii/Site-Showcase"},
                 {"name": "File-Converter", "link": "https://github.com/Korbut-Serhii/File-Converter"},
                 {"name": "Infinity-Puzzle", "link": "https://github.com/Korbut-Serhii/Infinity-Puzzle"},
                 {"name": "SoftPad", "link": "https://github.com/Korbut-Serhii/SoftPad"},
-                {"name": "Chroma App", "link": "https://github.com/Korbut-Serhii/Chroma"}
+                {"name": "Chroma App", "link": "https://github.com/Korbut-Serhii/Chroma"},
+                {"name": "Wallpaper Manager", "link": "https://github.com/Korbut-Serhii/wallpaper-manager"}
             ]
         },
         "other": {

@@ -6,15 +6,21 @@
         <p class="description">{{ data.text }}</p>
 
         <div class="project-list">
-            <h2>My Projects:</h2>
-            {% for project in data.projects %}
-            <div class="project-item">
-                <span>{{ project.name }}</span>
-                <a href="{{ project.link }}" target="_blank" class="github-btn">
-                    <i class="fab fa-github"></i> GitHub
-                </a>
+            <div class="project-list-header">
+                <h2>Projects</h2>
+                <span class="project-count">{{ data.projects | length }}</span>
             </div>
-            {% endfor %}
+
+            <div class="project-grid">
+                {% for project in data.projects %}
+                <div class="project-item">
+                    <span>{{ project.name }}</span>
+                    <a href="{{ project.link }}" target="_blank" class="github-btn">
+                        <i class="fab fa-github"></i> GitHub
+                    </a>
+                </div>
+                {% endfor %}
+            </div>
         </div>
     </div>
 {% endblock %}
