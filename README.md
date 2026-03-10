@@ -93,7 +93,3 @@ Open `app.py` and find the `content` dictionary inside the `category_page` route
 ```
 
 To add an entirely new category, add it to both the `categories` list in the `index()` route and the `content` dictionary in `category_page()`.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
