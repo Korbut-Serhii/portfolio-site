@@ -26,6 +26,7 @@ def category_page(cat_id):
                 {"name": "Uncategorized Projects", "link": "https://github.com/Korbut-Serhii/Python-Projects"},
                 {"name": "Tamagotchi - Small Game", "link": "https://github.com/Korbut-Serhii/Tamagotchi"},
                 {"name": "ClipboardManager", "link": "https://github.com/Korbut-Serhii/ClipboardManager"},
+                {"name": "MinLang Interpreter", "link": "https://github.com/Korbut-Serhii/MinLang"}
             ]
         },
         "web": {
